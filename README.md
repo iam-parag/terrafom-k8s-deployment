@@ -1,4 +1,3 @@
-# terraform
 Terraform code for kubernetes
 
 ##############################
